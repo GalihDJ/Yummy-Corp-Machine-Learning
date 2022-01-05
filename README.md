@@ -1,7 +1,7 @@
 # Yummy-Corp-Machine-Learning
 Yummy Corp Data Engineer Training Materials
 
-This repository is made for Yummy Corp Data Engineer Trainee program. This training materials consist of:
+This repository is made for Yummy Corp Data Engineer Trainee program. This machine learning training materials consist of:
 - Introduction to Pandas Library
 - Introduction to NumPy
 - Data Plotting and Visualization Using Matplotlib
